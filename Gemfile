@@ -38,6 +38,7 @@ group :development, :test do
   # Test Framework
   gem 'rspec'
   gem 'rspec-rails'
+  gem 'cleanup'
 end
 
 group :development do
